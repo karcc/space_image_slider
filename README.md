@@ -6,7 +6,12 @@ This app includes a loop function which it will loop the current 4 images loaded
 
 I hope to improve myself and will be able to create an web app where user could upload their photos and this app will serve as an online image viewer.
 
+HTML viewer by htmlpreview.github.io
+
+https://htmlpreview.github.io/?https://github.com/karcc/space_image_slider/blob/master/index.html
+
 References
+
 http://cdn.wonderfulengineering.com/wp-content/uploads/2014/04/space-wallpapers-3.jpg
 
 http://7-themes.com/data_images/out/65/6994476-cool-space-pictures.jpg
